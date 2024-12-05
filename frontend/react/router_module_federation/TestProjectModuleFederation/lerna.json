@@ -1,0 +1,6 @@
+{
+    "packages": [
+    "TestProjectModulefederation/*"
+],
+    "version": "0.0.0"
+}
